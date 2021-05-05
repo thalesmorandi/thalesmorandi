@@ -1,4 +1,4 @@
-<img src="https://github.com/thalesmorandi/thalesmorandi/blob/master/header.gif">
+![](header.gif)
 
 ### Hi 👋
 I am computer sciente graduating looking for opportunities and collabaration in projects related to data science and deep learning.
