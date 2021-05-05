@@ -1,6 +1,8 @@
+<p align='right'
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fthalesmorandi%2Fthalesmorandi&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitas&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<img src="header.gif" align="right" width="375" />
+<img src="header.gif" align="right" width="450" />
 
 ### Hi 👋 
 I am computer science graduating looking for opportunities and collabaration in projects related to data science and deep learning.
