@@ -6,8 +6,8 @@
 
 ### Hi 👋 
 I am computer science graduating looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on ISP's.
-- 🌱 I’m currently learning python.
+- 🔭 I’m currently working on a Microsoft CSP Partner named ProdutivIT.
+- 🌱 I’m currently learning python, cloud solutions based on Azure.
 - 🤝 I’m looking to collaborate on data science and deep learning projects.
 
 
